@@ -9,6 +9,8 @@ My learning journal for Code Fellows!
 - Ask for help
 - Keep reminders around of where you started from
 
-> When we're growing, we're more productive. When we're productive, I feel better.
+> When we're growing, we're more productive. When we're productive, I feel better.<
 
 *By Steve Haffenden, Inside Atlassian*
+
+You could listen the rest here on their website [Attlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
