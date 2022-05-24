@@ -7,7 +7,7 @@ Hi all! My name is Ezaan, and I am a U.S. Navy Veterans. A little bit about myse
 2. The second waship was a guided missile destroyer-flight 2, USS Chafee (DDG-90) Homeported in Joint Base Pearl Harbor-Hickam, Oahu Hawaii. 
 3. Third Ships was a guided missile cruiser-flight 1, USS Chancelorsville, (CG-62) Homeported out of U.S. Naval Base Yokosuka, Japan. 
 
-After my tour of Sea duties, I did my twilight tour on U.S. Naval Reserve Center Knoxville, Tennessee as a Command Career Counselor. Now that I am back, I am excited and looking forward to start this new chapter my life!
+After my tour of Sea duties, I did my twilight tour on U.S. Naval Reserve Center Knoxville, Tennessee as a Command Career Counselor. Now that I am back, I am excited and looking forward to start this new chapter mine!
 
 ## My Intrepetation of Growth Mindset
 
