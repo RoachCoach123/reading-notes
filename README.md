@@ -16,3 +16,4 @@ My learning journal for Code Fellows!
 Click here to listen the rest of the blog [Attlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
+![line_1508651342463](https://user-images.githubusercontent.com/104711302/169948146-c35affe5-acab-4f21-970b-4eb869fce3df.jpeg)
