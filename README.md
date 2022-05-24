@@ -12,4 +12,5 @@ My learning journal for Code Fellows!
 > When we're growing, we're more productive. When we're productive, I feel better.
 
 *By Steve Haffenden*
-*Inside Atlassian*
+
+*,Inside Atlassian*
