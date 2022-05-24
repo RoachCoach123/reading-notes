@@ -8,3 +8,5 @@ My learning journal for Code Fellows!
 - Keep trying
 - Ask for help
 - Keep reminders around of where you started from
+
+> When we're growing, we're more productive. When we're productive, I feel better.
