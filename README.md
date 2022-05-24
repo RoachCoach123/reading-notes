@@ -16,4 +16,7 @@ My learning journal for Code Fellows!
 Click here to listen the rest of the blog [Attlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
+
+
 ![line_1508651342463](https://user-images.githubusercontent.com/104711302/169948146-c35affe5-acab-4f21-970b-4eb869fce3df.jpeg)
+Beside the inspiring quotes mentioned above, I also want to remind myself to work hard and pour everything I have into this program so that I may land a job in Japan. This is a picture of me and my younger brother back when I was stationed in U.S. Naval Yokosuka, Japan. Really loved it and eversince got back home here in Seattle,I really dreaming of moving back and that is one of my motivation to move on.
