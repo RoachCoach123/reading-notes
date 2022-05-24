@@ -19,4 +19,4 @@ Click here to listen the rest of the blog [Attlassian](https://www.atlassian.com
 
 
 ![line_1508651342463](https://user-images.githubusercontent.com/104711302/169948146-c35affe5-acab-4f21-970b-4eb869fce3df.jpeg)
-Beside the inspiring quotes mentioned above, I also want to remind myself to work hard and pour everything I have into this program so that I may land a job in Japan. This is a picture of me and my younger brother back when I was stationed in U.S. Naval Yokosuka, Japan. Really loved it and eversince got back home here in Seattle,I really dreaming of moving back and that is one of my motivation to move on.
+Beside the inspiring quotes mentioned above, I also want to remind myself to work hard and pour everything I have into this program so that I may be able to move back and land a job in Japan. This is a picture of me and my younger brother visiting me back when I was stationed in U.S. Naval Yokosuka. Loved it and really want to move back there and find a good job.
