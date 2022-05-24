@@ -14,3 +14,5 @@ My learning journal for Code Fellows!
 *By Steve Haffenden, Inside Atlassian*
 
 Click here to listen the rest of the blog [Attlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
