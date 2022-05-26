@@ -1,6 +1,6 @@
 Markdown application is design to support basic syntax. Also it is useful for beginners who is exploring through out the applications and it is the easiest way to learn coding. It would be difficult, not impossible to start out at a varying degrees without a proper guidance. However, Markdown application gives the user just that, the basic of coding. Once they get the used to it, the degrees of skills and expertise developed at varying degrees is endless. I have provided examples below on the simplest codes that anyone could enter. Feel free to provide feedback.
 
 ## Adding Images
-You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
-
+You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ( ).
+For example: >(![GithubCat](https://user-images.githubusercontent.com/104711302/170425987-0e53461e-b7e7-4fb2-bdb3-a2052d71e9ba.png)
 (![GithubCat](https://user-images.githubusercontent.com/104711302/170425987-0e53461e-b7e7-4fb2-bdb3-a2052d71e9ba.png)
