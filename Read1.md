@@ -4,5 +4,6 @@ Markdown application is design to support basic syntax. Also it is useful for be
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ( ).
 ### For example:
 
--![This is an image](https://user-images.githubusercontent.com/104711302/170425987-0e53461e-b7e7-4fb2-bdb3-a2052d71e9ba.png)
+![Adding Image](https://user-images.githubusercontent.com/104711302/170430074-b99de9f1-42db-40bb-8c75-1c327c03d1d9.PNG)
+
 (![GithubCat](https://user-images.githubusercontent.com/104711302/170425987-0e53461e-b7e7-4fb2-bdb3-a2052d71e9ba.png)
